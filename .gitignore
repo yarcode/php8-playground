@@ -8,3 +8,5 @@ yarn-error.log
 storage/*.key
 Homestead.yaml
 Homestead.json
+
+composer.phar

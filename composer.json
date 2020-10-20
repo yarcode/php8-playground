@@ -1,0 +1,12 @@
+{
+  "name": "yarcode/php8-playground",
+  "type": "project",
+  "require": {
+    "php": ">=8"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "./src"
+    }
+  }
+}
